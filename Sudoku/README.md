@@ -24,8 +24,6 @@ java Sudoku2
 
 ---
 
-*Mais exercícios serão adicionados ao longo da formação.*
-
 ## Tecnologias
 - Java
 - Arrays bidimensionais
